@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub repository](https://github.com/N40h/results-summary-component)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/results-summary-component-flexbox-pzwPflzHwu)
 - Live Site URL: [Live Site](https://n40h.github.io/results-summary-component/)
 
 ## My process
