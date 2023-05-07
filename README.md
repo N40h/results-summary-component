@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/results-summary-component-flexbox-pzwPflzHwu)
-- Live Site URL: [Live Site](https://n40h.github.io/results-summary-component/)
+- Live Site URL: [Live Site](https://incomparable-druid-219dba.netlify.app/)
 
 ## My process
 
